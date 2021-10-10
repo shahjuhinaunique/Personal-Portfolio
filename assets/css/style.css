@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+section {
+    position: absolute;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #ff4f8b, #dff1ff);
+}
+
+section .color {
+    position: absolute;
+}
